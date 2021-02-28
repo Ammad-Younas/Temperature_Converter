@@ -12,4 +12,4 @@ This Programme Is For Temperature Conversion.
               pkg install git
               git clone https://github.com/Ammad-Younas/Temperature_Converter.git
               cd Temperature_Converter
-              python temperature_converter.py
+              python temperature_conversion.py
