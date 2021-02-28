@@ -10,6 +10,6 @@ This Programme Is For Temperature Conversion.
                                  apt update && apt upgrade
                                      pkg install python
                                      pkg install git
-                  git clone https://github.com/Ammad-Younas/Text_based_Game.git
-                                   cd  Text_based_Game
-                                   python guess_the_number.py 
+                  git clone https://github.com/Ammad-Younas/Temperature_Converter.git
+                                   cd  Temperature_Converter
+                                   python temperature_conversion.py 
