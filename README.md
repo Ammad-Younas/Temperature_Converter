@@ -16,7 +16,7 @@ This Programme Is For Temperature Conversion.
          
          
          
-             ●If You Want To Run This Game In Termux So Run The Following commands●
+             ●If You Want To Run This Program In Termux So Run The Following commands●
                                  apt update && apt upgrade
                                      pkg install python
                                      pkg install git
