@@ -4,4 +4,6 @@ This Programme Is For Temperature Conversion.
       apt update && apt upgrade
       pkg install python 
       pkg install git
-      git clone 
+      git clone https://github.com/Ammad-Younas/Temperature_Converter.git
+      cd Temperature_Converter
+      python temperature_converter.py
